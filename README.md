@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Profile%20views&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refatalhasan" alt="refatalhasan" /></a> </p>
-
 - 📫 How to reach me **iamrefatalhasan@gmail.com**
 
 - ⚡ Fun fact **Light brings the bugs, So we code in the dark, Where focus stays sharp, And ideas spark! 🌙💻**
