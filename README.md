@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Refat al hasan</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Profile%20views&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Visitors&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
 
 
 
