@@ -5,8 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Profile%20views&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
 
-
-- 📫 How to reach me: **https://t.me/refatalhasan**
+<p align="center"> 📫 How to reach me: **https://t.me/refatalhasan**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
