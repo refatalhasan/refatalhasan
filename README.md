@@ -16,10 +16,6 @@
 </p>
 
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=refatalhasan.refatalhasan&left_color=crimson&right_color=lightgray&left_text=Profile%20views"  />
-</div>
-
 ###
 
 <div align="center">
