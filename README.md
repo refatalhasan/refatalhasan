@@ -1,20 +1,20 @@
 
 
-<h1 align="center">Hi 👋, I'm Refat al hasan</h1>
+<h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Visitors&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Visitors&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
 
 
 
-<h3 align="center">FOLLOW ME:</h3>
-<p align="center">
+<h3 align="left">FOLLOW ME:</h3>
+<p align="left">
 <a href="https://twitter.com/refatalhas68233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="refatalhas68233" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/31376010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31376010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mrrefatalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrrefatalhasan" height="30" width="40" /></a>
 </p>
 
-<p align="center"> 📫 Telegram: https://t.me/refatalhasan</p>
+<p align="left"> 📫 Telegram: https://t.me/refatalhasan</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=refatalhasan&show_icons=true&locale=en&layout=compact" alt="refatalhasan" /></p>
 
