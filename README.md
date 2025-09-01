@@ -2,10 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Visitors&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
-
-
 
 <h3 align="left">FOLLOW ME:</h3>
 <p align="left">
