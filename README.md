@@ -6,7 +6,6 @@
 
 <h3 align="left">FOLLOW ME:</h3>
 <p align="left">
-<a href="https://twitter.com/refatalhas68233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="refatalhas68233" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mrrefatalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrrefatalhasan" height="30" width="40" /></a>
 </p>
 
