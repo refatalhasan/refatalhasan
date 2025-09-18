@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refatalhasan&label=Visitors&color=0e75b6&style=flat" alt="refatalhasan" /> </p>
 
-<h3 align="left">FOLLOW ME:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/mrrefatalhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrrefatalhasan" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rahkaif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahkaif" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rahkaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahkaif" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rahkaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahkaif" height="30" width="40" /></a>
 </p>
 
 <p align="left"> 📫 Telegram: https://t.me/refatalhasan</p>
